@@ -15,5 +15,3 @@ logging.basicConfig(
 
 
 )
-
- 
